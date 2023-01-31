@@ -3,12 +3,12 @@
 | [Twitter](https://twitter.com/osman_alejandro "Twitter") | [LinkedIn](https://www.linkedin.com/in/osman-az/ "LinkedIn") | [Instagram](https://www.instagram.com/osman_alejandro/ "Instagram") | [Discord](https://discord.gg/6YWZYefa "Discord") |
 | ------------ | ------------ | ------------ | ------------ |
 
-### :fa-user: **About me**
+### **About me**
 Eager to learn and provide new and current solutions with emerging technologies. I know how to manage my time, I have the ability to learn by being self-taught, creativity, diligence, communication and effective persuasion.
 
 I have the necessary tools to create Web applications using HTML, CSS, preprocessors, JavaScript, jQuery and Responsive Design, which serve as a FrontEnd to a Backend created in any programming language, which allows it to consume and supply data to a Rest API, making Use of software development best practices.
 
-### :fa-wrench: **Skills**
+### **Skills**
 - Object-oriented programming
 - Git
 - Javascript
@@ -20,4 +20,4 @@ I have the necessary tools to create Web applications using HTML, CSS, preproces
 - Ajax
 - Programming Fundamentals
 
-### :fa-file-text: **[Download my resume](https://drive.google.com/file/d/1vS-nJV9Bedc6loWR5LtBD4xdrj78p4r9/view?usp=sharing "My resume")**
+### **[Download my resume](https://drive.google.com/file/d/1vS-nJV9Bedc6loWR5LtBD4xdrj78p4r9/view?usp=sharing "My resume")**
