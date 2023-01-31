@@ -1,7 +1,7 @@
 ![welcome to my github](https://i.imgur.com/jAlnF9B.png "wekcome to my github")
 
-| [Twitter](https://twitter.com/osman_alejandro "Twitter") | [LinkedIn](https://www.linkedin.com/in/osman-az/ "LinkedIn") | [Instagram](https://www.instagram.com/osman_alejandro/ "Instagram") | [Discord](https://discord.gg/6YWZYefa "Discord") |
-| ------------ | ------------ | ------------ | ------------ |
+| [My Site](https://osman-az.github.io/portafolio/ "My Site") | [Twitter](https://twitter.com/osman_alejandro "Twitter") | [LinkedIn](https://www.linkedin.com/in/osman-az/ "LinkedIn") | [Instagram](https://www.instagram.com/osman_alejandro/ "Instagram") | [Discord](https://discord.gg/6YWZYefa "Discord") |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
 
 ### **About me**
 Eager to learn and provide new and current solutions with emerging technologies. I know how to manage my time, I have the ability to learn by being self-taught, creativity, diligence, communication and effective persuasion.
